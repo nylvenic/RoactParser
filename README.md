@@ -48,10 +48,3 @@ const snippet = parser.toSnippet();
 
 This parser was developed as the core parsing logic for a VS Code extension
 providing Roact snippet generation and syntax assistance.
-
-The extension itself is not open-sourced, but this repository represents
-the reusable parsing and tree-construction logic written by the author.
-
-## License
-
-MIT
